@@ -1,0 +1,38 @@
+_repo: The-Historical-Novels-Of-Georg-EbersA-Linked-Index-to-the-Project-Gutenberg-Editions_28898
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28898-h/files/7542/7542-h/images/bookcover.jpg
+creator:
+  author:
+    agent_name: Ebers, Georg
+    aliases:
+    - Ebers, George Moritz
+    - Ebers, Georg Moritz
+    birthdate: 1837
+    deathdate: 1898
+    gutenberg_agent_id: '1800'
+    url: http://www.gutenberg.org/2009/agents/1800
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Ebers
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2009-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28898'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Indexes'
+- !lcc 'PT'
+title: 'The Historical Novels Of Georg Ebers
+
+  A Linked Index to the Project Gutenberg Editions'
+url: http://www.gutenberg.org/ebooks/28898
